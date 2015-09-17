@@ -1,0 +1,26 @@
+#high ul {
+  font-color: white
+
+}
+#high {
+  background-color: red;
+}
+#medium ul {
+  color: brown;
+}
+#medium {
+  background-color: orange;
+}
+#low ul {
+  color: black;
+}
+#low {
+  background-color: gray;
+}
+#done ul {
+  color: cyan;
+  text-decoration: line-through;
+}
+#done {
+  background-color: black;
+}
