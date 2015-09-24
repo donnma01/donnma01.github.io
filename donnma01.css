@@ -19,6 +19,9 @@ nav {
   margin-top: 40px;
   
 }
+nav.nonindex {
+ margin:0px;
+}
 nav li {
    display: inline;
    color: red;
