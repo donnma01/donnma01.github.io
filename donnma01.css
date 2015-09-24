@@ -22,9 +22,11 @@ nav {
 nav li {
    display: inline;
    color: red;
+   
 }
 nav ul {
    margin: 0px;
+   color: red;
 }
 section#left {
    float: left;
