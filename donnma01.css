@@ -22,7 +22,6 @@ nav ul {
    margin: 0px;
 }
 section#left {
-  margin-top: 50px;
    float: left;
    width: 50%;
    background-color: black;
@@ -32,7 +31,6 @@ section#left {
 
 }
 section#right {
-   margin-top: 50px;
    float: left;
    width: 50%;
    background-color: grey;
