@@ -8,7 +8,7 @@ color: blue;
 font-family: "Times New Roman", Times, serif;
 }
 nav {
-  position: fixed;
+  position: absolute;
   background-color: blue;
   height: 20px;
   width: 100%;
