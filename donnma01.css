@@ -1,5 +1,5 @@
 header {
-background-color: orange;
+background-color: blue;
 height: 40px;
 width: 100%;
 text-align: center;
@@ -11,7 +11,7 @@ left: 0px;
 position: fixed;
 }
 nav {
-  background-color: blue;
+  background-color: white;
   height: 20px;
   width: 100%;
   text-align: center;
@@ -21,6 +21,7 @@ nav {
 }
 nav li {
    display: inline;
+   color: red;
 }
 nav ul {
    margin: 0px;
