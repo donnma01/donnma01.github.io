@@ -20,7 +20,7 @@ nav {
   
 }
 nav.nonindex {
- margin:0px;
+ margin-top:40px;
 }
 nav li {
    display: inline;
