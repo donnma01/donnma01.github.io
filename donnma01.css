@@ -26,7 +26,7 @@ section#left {
    width: 50%;
    background-color: black;
    color: white;
-   height: 1000px;
+   height: 1500px;
    overflow: auto;
 
 }
@@ -35,7 +35,7 @@ section#right {
    width: 50%;
    background-color: grey;
    color: white;
-   height: 1000px;
+   height: 1500px;
    overflow: auto;
 }
 footer {
