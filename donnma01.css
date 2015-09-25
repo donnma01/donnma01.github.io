@@ -17,6 +17,7 @@ nav {
   text-align: center;
   position: fixed;
   margin-top: 40px;
+  z-index: 2;
   
 }
 nav.nonindex {
@@ -39,6 +40,8 @@ section#left {
    height: 1500px;
    overflow: auto;
    margin-top: 60px;
+   position: relative;
+   z-index: 0;
 }
 section#right {
    float: left;
@@ -64,4 +67,20 @@ footer {
 }
 body {
   margin: 0px;
+}
+article {
+ position: absolute;
+ z-index: 1;
+ width: 100%;
+ height: 750px;
+ margin-top: 810px;
+ background-color: blue;
+ color: white;
+}
+article h1 {
+  text-align: center;
+}
+article video {
+  float: left;
+}
 }
