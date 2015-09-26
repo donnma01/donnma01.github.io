@@ -29,6 +29,9 @@ nav li {
    color: red;
    
 }
+nav li:hover {
+  background-color: red;
+}
 nav ul {
    margin: 0px;
    color: red;
