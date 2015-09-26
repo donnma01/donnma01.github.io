@@ -36,6 +36,10 @@ nav ul {
    margin: 0px;
    color: red;
 }
+.center {
+  
+  text-align: center;
+}
 section#left {
    float: left;
    width: 50%;
