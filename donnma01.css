@@ -91,6 +91,8 @@ article h1 {
 }
 article video {
   float: left;
+  display: block;
+  margin: 0 auto;
 }
 article p {
   text-align: center;
