@@ -36,5 +36,4 @@ list-style-type: none;
 }
 #done ul {
   color: cyan;
-  text-decoration: line-through;
 }
