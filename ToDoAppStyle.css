@@ -6,9 +6,14 @@
   #dobox {
     background-color: blue;
     position: relative;
-    height: 150px;
-    width: 300px;
+    height: 250px;
+    width: 500px;
     margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
     }
+#enterbox {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
