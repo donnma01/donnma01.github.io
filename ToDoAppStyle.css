@@ -1,5 +1,6 @@
 #busy {
     text-align: center;
+    margin-bottom: 50px;
     
   }
   #dobox {
@@ -7,8 +8,7 @@
     position: relative;
     height: 150px;
     width: 300px;
-    top: 100px;
-    left: 150px;
-    right: 150px;
     margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
     }
