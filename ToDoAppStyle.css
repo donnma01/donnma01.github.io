@@ -1,0 +1,14 @@
+#busy {
+    text-align: center;
+    
+  }
+  #dobox {
+    background-color: blue;
+    position: relative;
+    height: 150px;
+    width: 300px;
+    top: 100px;
+    left: 150px;
+    right: 150px;
+    margin-bottom: 50px;
+    }
