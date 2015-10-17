@@ -30,3 +30,7 @@
 .low{
     text-color: green;
 }
+.done {
+    text-color: white;
+    text-decoration: line-through;
+}
