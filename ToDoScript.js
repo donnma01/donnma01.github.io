@@ -13,5 +13,5 @@ ulsection1.appendChild(listitem);
 
 }
 completeTask = function(){
-  this.parent.className = "done";
+  this.parentNode.className = "done";
 }
