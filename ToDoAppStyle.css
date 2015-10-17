@@ -20,6 +20,7 @@
     background-color: blue;
     height: 30px;
     width: 500px;
+    color: white;
 }
 #unlist {
     list-style: none;
