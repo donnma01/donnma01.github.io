@@ -7,7 +7,7 @@ cbox.type = "checkbox";
 listitem.appendChild(cbox);
 listitem.appendChild(litext);
 //listitem.className = priority;
-listitem.className = document.querySelector('priority').value;
+listitem.className = document.querySelector('#priority').value;
 cbox.onclick = completeTask;
 var ulsection1 = document.querySelector('#unlist');
 ulsection1.appendChild(listitem);
