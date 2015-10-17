@@ -24,13 +24,13 @@
 #unlist {
     list-style: none;
 }
-.high {
+.High {
     color: red;
 }
-.medium{
+.Medium{
     color: yellow;
 }
-.low{
+.Low{
     color: green;
 }
 .done {
