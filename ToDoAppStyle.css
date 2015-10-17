@@ -25,15 +25,15 @@
     list-style: none;
 }
 .high {
-    text-color: red;
+    color: red;
 }
 .medium{
-    text-color: yellow;
+    color: yellow;
 }
 .low{
-    text-color: green;
+    color: green;
 }
 .done {
-    text-color: white;
+    color: white;
     text-decoration: line-through;
 }
