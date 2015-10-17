@@ -36,6 +36,9 @@ nav ul {
    margin: 0px;
    color: red;
 }
+table {
+  margin: auto;
+}
 .center {
   
   text-align: center;
