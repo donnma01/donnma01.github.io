@@ -21,3 +21,12 @@
     height: 30px;
     width: 500px;
 }
+.high {
+    text-color: red;
+}
+.medium{
+    text-color: yellow;
+}
+.low{
+    text-color: green;
+}
