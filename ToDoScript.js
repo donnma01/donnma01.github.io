@@ -18,7 +18,8 @@ ulsection1.appendChild(listitem);
 completeTask = function(){
   this.parentNode.classList.add("done");
 }
-window.onload = function(){
+/*window.onload = function(){
   addTask();
   completeTask();
 }
+
