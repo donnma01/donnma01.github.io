@@ -16,10 +16,11 @@ ulsection1.appendChild(listitem);
 
 }
 completeTask = function(){
-  this.parentNode.classList.add("done");
+  this.parentNode.className = "done";
 }
 /*window.onload = function(){
   addTask();
   completeTask();
 }
+*/
 
