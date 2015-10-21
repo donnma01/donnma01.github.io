@@ -8,6 +8,7 @@ listitem.appendChild(cbox);
 listitem.appendChild(litext);
 //listitem.className = priority;
 listitem.className = document.querySelector('#priority').value;
+localSave("unlist");
 cbox.onclick = completeTask;
 var ulsection1 = document.querySelector('#unlist');
 ulsection1.appendChild(listitem);
@@ -22,7 +23,7 @@ completeTask = function(){
   else {
   this.parentNode.classList.remove("done");
   }
-  localSave("unlist");
+  
 }
 window.onload = function(){
   restoreList("unlist", completeTask);
