@@ -23,6 +23,7 @@ completeTask = function(){
   else {
   this.parentNode.classList.remove("done");
   }
+  localSave("unlist");
   
 }
 window.onload = function(){
