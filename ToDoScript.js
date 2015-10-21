@@ -16,7 +16,12 @@ ulsection1.appendChild(listitem);
 
 }
 completeTask = function(){
+  if (this.checked) { 
   this.parentNode.className = "done";
+  }
+  else {
+  this.parentNode.classList.remove("done");
+  }
 }
 /*window.onload = function(){
   addTask();
